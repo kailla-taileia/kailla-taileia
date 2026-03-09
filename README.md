@@ -54,14 +54,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2"/>
 
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kailla-taileia/kailla-taileia/output/snake.svg"/>
-
-</p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
