@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z6Q.jpg" width="100%" />
+  <img src="blob:https://br.pinterest.com/6257a594-e191-4ea8-9595-c125ecab836f" width="100%" />
 </p>
 
 <h1 align="center">⚔️ Kailla | Recruta da Tropa de Desenvolvimento ⚔️</h1>
@@ -29,23 +29,28 @@
 
 ---
 
-## ⚙️ Equipamentos (Tecnologias)
+# ⚙️ Equipamentos/Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-1B2A1B?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-1B2A1B?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-1B2A1B?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1B2A1B?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-1B2A1B?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-2F3E2F?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2F3E2F?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2F3E2F?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📊 Estatísticas de Batalha
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F3E2F&height=2"/>
+
+# 📊 Estatísticas de Batalha
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailla-taileia&theme=github_dark"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailla-taileia&theme=github_dark"/>
+
 </p>
 
 ---
@@ -65,12 +70,9 @@
 > "Se você não lutar, não pode vencer."
 
 ---
-
-## 🌑 Tema visual
-
-🟤 Marrom — resistência  
-🟢 Verde escuro — esperança  
-⚫ Preto — disciplina  
+<p align="center">
+  <img src="blob:https://br.pinterest.com/62abf618-5f93-4cdb-92a7-144c0d03a3ee" width="100%" />
+</p>
 
 ---
 
@@ -82,5 +84,5 @@
 ---
 
 <p align="center">
-  🪽 Entregue seu Coração!
+  🪽 Entreguem seus Corações!
 </p>
