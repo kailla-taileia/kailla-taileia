@@ -1,59 +1,86 @@
-<!-- typing animation -->
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z6Q.jpg" width="100%" />
+</p>
+
+<h1 align="center">⚔️ Kailla | Recruta da Tropa de Desenvolvimento ⚔️</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kailla;Estudando+Programação;JavaScript+HTML+CSS;Bem+vindo+ao+meu+GitHub+💗">
+  <i>"A única coisa que podemos fazer... é continuar avançando."</i>
 </p>
 
 ---
 
-<!-- contador de visitas -->
+## 🧬 Sobre mim
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kailla-taileia&color=ff69b4&style=for-the-badge">
+🎯 Desenvolvedora em formação  
+💻 Focada em JavaScript e backend  
+🚀 Evoluindo diariamente na programação  
+🌎 Em busca da liberdade (e deploys sem erro)
+
+---
+
+## 🏹 Missão
+
+- Sobreviver aos bugs  
+- Dominar JavaScript  
+- Aprender APIs e backend  
+- Me tornar desenvolvedora fullstack  
+
+---
+
+## ⚙️ Equipamentos (Tecnologias)
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1B2A1B?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-1B2A1B?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-1B2A1B?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1B2A1B?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1B2A1B?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
-
-# 🌸 Sobre mim
-
-💻 Estudando programação
-
-🚀 Criando projetos e aprendendo todos os dias  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2"/>
-
-# 💻 Tecnologias
+## 📊 Estatísticas de Batalha
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white"/>
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2"/>
+## 🧠 Treinamento Atual
 
-# 📊 Estatísticas
+🟢 Lógica de programação  
+🟢 JavaScript  
+🟡 APIs (em progresso)  
+🔴 React (em breve)  
+🔴 Node.js avançado (em progresso) 
+
+---
+
+## ⚔️ Frase de combate
+
+> "Se você não lutar, não pode vencer."
+
+---
+
+## 🌑 Tema visual
+
+🟤 Marrom — resistência  
+🟢 Verde escuro — esperança  
+⚫ Preto — disciplina  
+
+---
+
+## 📡 Contato
+
+📧 Email: Kah2012taileia@gmail.com
+💼 LinkedIn:(https://www.linkedin.com/in/kailla-taileia-11557a306/)
+
+---
 
 <p align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailla-taileia&theme=radical"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailla-taileia&theme=radical"/>
-
+  🪽 Entregue seu Coração!
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
