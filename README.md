@@ -51,21 +51,28 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailla-taileia&theme=merko"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailla-taileia&theme=github_dark"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailla-taileia&theme=merko"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailla-taileia&theme=github_dark"/>
 
 </p>
 
 ---
 
-## 🧠 Treinamento Atual
+<p align="center">
+  <img  width="30%"  align="right"  alt="8c339ffe883a0c8da9f79cc3887fe25c" src="https://github.com/user-attachments/assets/1679ae0e-7539-4af9-a69c-2e4c573fc456" />
+
+🧠 **Treinamento Atual**
 
 🟢 Lógica de programação  
 🟢 JavaScript  
 🟡 APIs (em progresso)  
 🔴 React (em breve)  
-🔴 Node.js avançado (em progresso) 
+🔴 Node.js avançado (em progresso)  
+
+</p>
+
+
 
 ---
 
