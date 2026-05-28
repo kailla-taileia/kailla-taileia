@@ -1,7 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kailla;
-  FullStack+em+formação;JavaScript+HTML+CSS+nodeJS;Bem+vindo+ao+meu+GitHub+💗">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kailla;FullStack+em+formação;JavaScript+HTML+CSS+NodeJS;Bem+vindo+ao+meu+GitHub+💗">
 </p>
 
 <p>
